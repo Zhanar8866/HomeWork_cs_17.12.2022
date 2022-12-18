@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\bin\Debug\net7.0\DZ_02_Max.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\bin\Debug\net7.0\DZ_02_Max.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\bin\Debug\net7.0\DZ_02_Max.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\bin\Debug\net7.0\DZ_02_Max.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\bin\Debug\net7.0\DZ_02_Max.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\refint\DZ_02_Max.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\DZ_02_Max.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_02_Max\obj\Debug\net7.0\ref\DZ_02_Max.dll
