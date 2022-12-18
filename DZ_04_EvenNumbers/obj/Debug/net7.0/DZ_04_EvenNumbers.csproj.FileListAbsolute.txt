@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\bin\Debug\net7.0\DZ_04_EvenNumbers.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\bin\Debug\net7.0\DZ_04_EvenNumbers.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\bin\Debug\net7.0\DZ_04_EvenNumbers.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\bin\Debug\net7.0\DZ_04_EvenNumbers.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\bin\Debug\net7.0\DZ_04_EvenNumbers.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\refint\DZ_04_EvenNumbers.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\DZ_04_EvenNumbers.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_04_EvenNumbers\obj\Debug\net7.0\ref\DZ_04_EvenNumbers.dll
