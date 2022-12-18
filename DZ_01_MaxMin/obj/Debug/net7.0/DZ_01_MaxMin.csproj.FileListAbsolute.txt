@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\bin\Debug\net7.0\DZ_01_MaxMin.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\bin\Debug\net7.0\DZ_01_MaxMin.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\bin\Debug\net7.0\DZ_01_MaxMin.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\bin\Debug\net7.0\DZ_01_MaxMin.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\bin\Debug\net7.0\DZ_01_MaxMin.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\refint\DZ_01_MaxMin.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\DZ_01_MaxMin.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\DomZadanie\DZ_01_MaxMin\obj\Debug\net7.0\ref\DZ_01_MaxMin.dll
